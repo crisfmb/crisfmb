@@ -6,7 +6,7 @@
 
 ### Hey! 👋 Welcome to my profile
 
-My name is Cristina(✿◠‿◠) ٩(˘◡˘)۶
+(✿◠‿◠) ٩(˘◡˘)۶
 
 <!-- - Red Hatter <3
  - 💙 In love with Openshift/Kubernetes
