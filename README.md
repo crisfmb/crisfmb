@@ -43,7 +43,7 @@
 ## What I'm currently learning 📚
 
 - Java
-- Kotlin 
+- Ruby 
 
 </details> 
 </a>
